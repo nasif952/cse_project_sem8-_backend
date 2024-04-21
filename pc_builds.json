@@ -1,0 +1,917 @@
+[
+  {
+    "buildid": "1",
+    "cost": "2021",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "16GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Microphone setup",
+      "Dual monitor setup",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "2",
+    "cost": "1378",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "64GB DDR5",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Gaming mouse",
+      "Microphone setup",
+      "RGB mechanical keyboard",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "3",
+    "cost": "2970",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Gaming mouse",
+      "Wireless headset",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "4",
+    "cost": "1384",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "16GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Gaming mouse",
+      "RGB mechanical keyboard",
+      "Dual monitor setup",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "5",
+    "cost": "1838",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Gaming mouse",
+      "Wireless headset"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "6",
+    "cost": "1956",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "32GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Microphone setup",
+      "Gaming mouse",
+      "Dual monitor setup",
+      "RGB mechanical keyboard"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "7",
+    "cost": "1971",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Gaming mouse",
+      "RGB mechanical keyboard",
+      "Microphone setup",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "8",
+    "cost": "930",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "64GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Gaming mouse",
+      "Air cooling solution",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "9",
+    "cost": "1173",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Dual monitor setup",
+      "Microphone setup",
+      "Wireless headset",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "10",
+    "cost": "1417",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "64GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Wireless headset",
+      "Air cooling solution",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "11",
+    "cost": "2772",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "16GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Wireless headset",
+      "Air cooling solution",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "12",
+    "cost": "1783",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Air cooling solution",
+      "RGB mechanical keyboard"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "13",
+    "cost": "1388",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Air cooling solution",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "14",
+    "cost": "2882",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "32GB DDR5",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Wireless headset",
+      "Gaming mouse",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "15",
+    "cost": "2195",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "32GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "16",
+    "cost": "1628",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "32GB DDR5",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "24-inch Full HD",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Air cooling solution",
+      "Liquid cooling system",
+      "RGB mechanical keyboard",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "17",
+    "cost": "2754",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "64GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Dual monitor setup",
+      "Air cooling solution",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "18",
+    "cost": "2442",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "32GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Wireless headset",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "19",
+    "cost": "1447",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "16GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Gaming mouse",
+      "Air cooling solution",
+      "Microphone setup",
+      "Wireless headset"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "20",
+    "cost": "1562",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "16GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "24-inch Full HD",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Wireless headset",
+      "Dual monitor setup",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "21",
+    "cost": "1494",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "64GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "24-inch Full HD",
+    "Storage": "4TB HDD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Gaming mouse",
+      "Liquid cooling system",
+      "Wireless headset",
+      "RGB mechanical keyboard"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "22",
+    "cost": "1213",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "16GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Liquid cooling system",
+      "RGB mechanical keyboard"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "23",
+    "cost": "2819",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Air cooling solution",
+      "Wireless headset",
+      "Liquid cooling system",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "24",
+    "cost": "2707",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "16GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Dual monitor setup",
+      "RGB mechanical keyboard",
+      "Gaming mouse",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "25",
+    "cost": "2199",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "64GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "24-inch Full HD",
+    "Storage": "500GB SATA SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Air cooling solution",
+      "RGB mechanical keyboard",
+      "Wireless headset",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "26",
+    "cost": "1669",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Wireless headset",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "27",
+    "cost": "2392",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Microphone setup",
+      "Dual monitor setup",
+      "Air cooling solution"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "28",
+    "cost": "2236",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "32GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "4TB HDD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Wireless headset",
+      "Gaming mouse",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "29",
+    "cost": "2551",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "64GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Microphone setup",
+      "Gaming mouse",
+      "Air cooling solution"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "30",
+    "cost": "1282",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 7 5800X",
+    "Ram": "32GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Dual monitor setup",
+      "Liquid cooling system",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "31",
+    "cost": "2661",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "16GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Air cooling solution",
+      "Gaming mouse",
+      "Liquid cooling system",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "32",
+    "cost": "1818",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "32GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Air cooling solution",
+      "Wireless headset",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "33",
+    "cost": "2216",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "64GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Wireless headset",
+      "Dual monitor setup",
+      "Air cooling solution",
+      "Microphone setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "34",
+    "cost": "1946",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "64GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Wireless headset",
+      "Dual monitor setup",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "35",
+    "cost": "2422",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Microphone setup",
+      "Liquid cooling system",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "36",
+    "cost": "2694",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "24-inch Full HD",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Air cooling solution",
+      "Dual monitor setup",
+      "Microphone setup",
+      "Wireless headset"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "37",
+    "cost": "2121",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "64GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "27-inch 4K IPS",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Air cooling solution",
+      "Gaming mouse",
+      "Dual monitor setup",
+      "RGB mechanical keyboard"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "38",
+    "cost": "2407",
+    "build_category": "Gaming",
+    "CPU": "AMD Ryzen 5 5600X",
+    "Ram": "32GB DDR4",
+    "Gpu": "AMD Radeon RX 6800 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Microphone setup",
+      "Dual monitor setup",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "39",
+    "cost": "1304",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "16GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Microphone setup",
+      "Wireless headset",
+      "Liquid cooling system",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "40",
+    "cost": "1142",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Air cooling solution",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "41",
+    "cost": "2445",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "24-inch Full HD",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Microphone setup",
+      "RGB mechanical keyboard",
+      "Wireless headset"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "42",
+    "cost": "2976",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "64GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Gaming mouse",
+      "Dual monitor setup",
+      "RGB mechanical keyboard",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "43",
+    "cost": "947",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "16GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "24-inch Full HD",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Liquid cooling system",
+      "Wireless headset"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "44",
+    "cost": "2049",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "500GB SATA SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "Liquid cooling system",
+      "Wireless headset",
+      "Microphone setup",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "45",
+    "cost": "2999",
+    "build_category": "Workstation",
+    "CPU": "AMD Ryzen 9 5900X",
+    "Ram": "32GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "4TB HDD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Microphone setup",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "46",
+    "cost": "1918",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "34-inch UltraWide",
+    "Storage": "2TB PCIe 4.0 SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "Powerful workstation for content creation",
+    "Details": [
+      "Gaming mouse",
+      "Wireless headset",
+      "Dual monitor setup",
+      "Liquid cooling system"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "47",
+    "cost": "1449",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "500GB SATA SSD",
+    "Psu": "750W Gold Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Wireless headset",
+      "Gaming mouse",
+      "Air cooling solution",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "48",
+    "cost": "1837",
+    "build_category": "Workstation",
+    "CPU": "Intel Core i9-12900K",
+    "Ram": "64GB DDR4",
+    "Gpu": "NVIDIA GeForce RTX 3080",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "Custom gaming rig for enthusiasts",
+    "Details": [
+      "Liquid cooling system",
+      "Gaming mouse"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "49",
+    "cost": "1913",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR5",
+    "Gpu": "NVIDIA GeForce RTX 3070",
+    "Monitor": "24-inch Full HD",
+    "Storage": "1TB NVMe SSD",
+    "Psu": "850W Platinum Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  },
+  {
+    "buildid": "50",
+    "cost": "1269",
+    "build_category": "Gaming",
+    "CPU": "Intel Core i7-12700K",
+    "Ram": "32GB DDR4",
+    "Gpu": "AMD Radeon RX 6700 XT",
+    "Monitor": "32-inch 4K HDR",
+    "Storage": "500GB SATA SSD",
+    "Psu": "650W Bronze Rated",
+    "Info": "High-end gaming PC with top-tier components",
+    "Details": [
+      "RGB mechanical keyboard",
+      "Gaming mouse",
+      "Dual monitor setup"
+    ],
+    "reviewIds": []
+  }
+]
